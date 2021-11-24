@@ -1,0 +1,11 @@
+C:\Users\ahmad\source\repos\hibernate\hibernate\bin\Debug\hibernate.exe.config
+C:\Users\ahmad\source\repos\hibernate\hibernate\bin\Debug\hibernate.exe
+C:\Users\ahmad\source\repos\hibernate\hibernate\bin\Debug\hibernate.pdb
+C:\Users\ahmad\source\repos\hibernate\hibernate\obj\Debug\hibernate.csproj.AssemblyReference.cache
+C:\Users\ahmad\source\repos\hibernate\hibernate\obj\Debug\hibernate.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmad\source\repos\hibernate\hibernate\obj\Debug\hibernate.Form1.resources
+C:\Users\ahmad\source\repos\hibernate\hibernate\obj\Debug\hibernate.Properties.Resources.resources
+C:\Users\ahmad\source\repos\hibernate\hibernate\obj\Debug\hibernate.csproj.GenerateResource.cache
+C:\Users\ahmad\source\repos\hibernate\hibernate\obj\Debug\hibernate.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\hibernate\hibernate\obj\Debug\hibernate.exe
+C:\Users\ahmad\source\repos\hibernate\hibernate\obj\Debug\hibernate.pdb
